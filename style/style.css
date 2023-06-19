@@ -18,7 +18,7 @@ body {
 header {
     width: 100%;
     height: 650px;
-    background-image: url(/img/fondo-degradado-onda-lujo-diseno-moderno-oscuro_343694-3089.avif);
+    background-image: url(../img/fondo-degradado-onda-lujo-diseno-moderno-oscuro_343694-3089.avif);
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
@@ -195,7 +195,7 @@ header .boton {
 .fondo {
     height: 900px;
     position: relative;
-    background-image: url(/img/fondo-degradado-onda-lujo-diseno-moderno-oscuro_343694-3089.avif);
+    background-image: url(../img/fondo-degradado-onda-lujo-diseno-moderno-oscuro_343694-3089.avif);
     overflow: hidden;
     background-attachment: fixed;
     background-position: center;
